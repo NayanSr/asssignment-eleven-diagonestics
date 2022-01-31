@@ -5,7 +5,8 @@
  * Display service details only for authorized user for /upcomming path
  * Details button is protected
  * Hosted in Firebase
- * 
+ * Live side link https://life-diagnostics.web.app/
+ * Protect to give error whwn relode site
 
 # Getting Started with Create React App
 
