@@ -1,0 +1,73 @@
+
+/*
+const test = [
+    {
+        id: '1',
+        name: 'x-ray',
+        cost: '1000',
+        img: 'https://i.ibb.co/cgnw33s/x-ray.jpg',
+        description: 'X-rays are a type of radiation called electromagnetic waves. X-ray imaging creates pictures of the inside of your body. The images show the parts of your body in different shades of black and white. This is because different tissues absorb different amounts of radiation. Calcium in bones absorbs x-rays the most, so bones look white. Fat and other soft tissues absorb less and look gray. Air absorbs the least, so lungs look black.'
+    },
+
+    {
+        id: '2',
+        name: 'CT Scan',
+        cost: '8000',
+        img: 'https://i.ibb.co/svdm0zH/CT-Scan.jpg',
+        description: 'A computerized tomography (CT) scan combines a series of X-ray images taken from different angles around your body and uses computer processing to create cross-sectional images (slices) of the bones, blood vessels and soft tissues inside your body. CT scan images provide more-detailed information than plain X-rays do.'
+    },
+    {
+        id: '3',
+        name: 'MRI',
+        cost: '7500',
+        img: 'https://i.ibb.co/74xkmWN/MRI.jpg',
+        description: 'Magnetic resonance imaging (MRI) is a medical imaging technique that uses a magnetic field and computer-generated radio waves to create detailed images of the organs and tissues in your body. Most MRI machines are large, tube-shaped magnets. When you lie inside an MRI machine, the magnetic field temporarily realigns water molecules in your body.'
+    },
+    {
+        id: '4',
+        name: 'Ultrasound',
+        cost: '5500',
+        img: 'https://i.ibb.co/5nYSqzS/Ultrasound.jpg',
+        description: 'An ultrasound is an imaging test that uses sound waves to create a picture (also known as a sonogram) of organs, tissues, and other structures inside the body. Unlike x-rays, ultrasounds don’t use any radiation. An ultrasound can also show parts of the body in motion, such as a heart beating or blood flowing through blood vessels. There are two main categories of ultrasounds: pregnancy ultrasound and diagnostic ultrasound.'
+    },
+    {
+        id: '5',
+        name: 'echo',
+        cost: '4500',
+        img: 'https://i.ibb.co/XZk6Rvh/echo.jpg',
+        description: 'An echocardiogram (echo) is a graphic outline of the hearts movement. During an echo test, ultrasound (high-frequency sound waves) from a hand-held wand placed on your chest provides pictures of the hearts valves and chambers and helps the sonographer evaluate the pumping action of the heart. Echo is often combined with Doppler ultrasound and color Doppler to evaluate blood flow across the hearts valves.'
+    },
+    {
+        id: '6',
+        name: 'Blood Test',
+        cost: '2500',
+        img: 'https://i.ibb.co/FD7b3sB/Blood-Test.jpg',
+        description: 'A blood test is a laboratory analysis performed on a blood sample that is usually extracted from a vein in the arm using a hypodermic needle, or via fingerprick. Multiple tests for specific blood components, such as a glucose test or a cholesterol test, are often grouped together into one test panel called a blood panel or blood work. Blood tests are often used in health care to determine physiological and biochemical states, such as disease, mineral content, pharmaceutical drug effectiveness, and organ function. Typical clinical blood panels include a basic metabolic panel or a complete blood count. Blood tests are also used in drug tests to detect drug abuse.'
+    },
+    {
+        id: '7',
+        name: 'Endoscopy',
+        cost: '5500',
+        img: 'https://i.ibb.co/Th6ZyvC/endoscopy.jpg',
+        description: 'An endoscopy (looking inside) is a procedure used in medicine to look inside the body.[1] The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies. Depending on the site in the body and type of procedure, an endoscopy may be performed by either a doctor or a surgeon. A patient may be fully conscious or anaesthetised during the procedure.'
+    },
+    {
+        id: '8',
+        name: 'ecoCOVID-19',
+        cost: '3500',
+        img: 'https://i.ibb.co/n7LYsZW/COVID-10.jpg',
+        description: 'COVID-19 testing involves analyzing samples to assess the current or past presence of SARS-CoV-2. The two main branches detect either the presence of the virus or of antibodies produced in response to infection.[1][2] Molecular tests for viral presence through its molecular components are used to diagnose individual cases and to allow public health authorities to trace and contain outbreaks. Antibody tests (serology immunoassays) instead show whether someone once had the disease.[3] They are less useful for diagnosing current infections because antibodies may not develop for weeks after infection.[4] It is used to assess disease prevalence, which aids the estimation of the infection fatality rate.'
+    }
+]
+
+*/
+
+
+// https://ibb.co/S3vXyQK
+// https://ibb.co/JvsGR0h
+// https://ibb.co/6R7n3LB
+// https://ibb.co/Z61vDkn
+// https://ibb.co/tCgSRmd
+// https://ibb.co/2N0Z4tY
+// https://ibb.co/wwJPDbP
+// https://ibb.co/znvFxxt

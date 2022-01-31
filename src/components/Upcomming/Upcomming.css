@@ -1,0 +1,34 @@
+.hospital{
+    display: grid;
+    grid-template-columns: 7fr 5fr;
+    margin-top: 5px;
+    background: lightblue;
+    width: 89%;
+    margin-left: 10%;
+    margin-right: 5px;
+}
+
+.hospital img{
+    padding: 5px;
+}
+.hospital p{
+    padding: 20px;
+    font-size: larger;
+}
+
+.ambulance{
+    display: grid;
+    grid-template-columns: 5fr 7fr;
+    margin-top: 25px;
+    background: lightblue;
+    width: 90%;
+    margin-left: 5px;
+}
+
+.ambulance img{
+    padding: 5px;
+}
+.ambulance p{
+    padding: 20px;
+    font-size: larger;
+}
